@@ -1,0 +1,1 @@
+A sobrecarga de métodos permite criar múltiplas versões do mesmo método com tipos ou números de parâmetros diferentes. Isso torna a interface da classe mais intuitiva e unificada, possibilitando que métodos com nome igual desempenhem funções distintas, adaptando-se ao tipo de dado recebido, como conversões de temperatura, distância ou texto, no caso.
