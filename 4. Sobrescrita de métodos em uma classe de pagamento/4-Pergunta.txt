@@ -1,0 +1,1 @@
+O polimorfismo por sobrescrita permite que cada forma de pagamento tenha sua própria lógica de processamento, respeitando uma interface comum. Isso promove extensibilidade e manutenção fácil, pois novas formas de pagamento podem ser adicionadas sem modificar a classe base ou o código existente que já utiliza a estrutura de Pagamento.
