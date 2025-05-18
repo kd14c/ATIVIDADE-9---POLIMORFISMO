@@ -1,0 +1,1 @@
+A sobrecarga de construtores permite criar objetos com diferentes quantidades de informação inicial. Isso oferece flexibilidade ao programador, já que nem sempre todos os dados estão disponíveis no momento da criação do objeto. Assim, é possível instanciar objetos de forma mais prática e conforme a necessidade do contexto.
